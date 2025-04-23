@@ -1,4 +1,5 @@
-# Indoor-Environment-Monitoring-Through-Application Final Year Project: IoT Application
+# Indoor-Environment-Monitoring-Through-Application 
+Final Year Project: IoT Application
 
 Project Overview
 The Final Year Project IoT is a web-based Internet of Things (IoT) application developed to demonstrate the integration of IoT devices with a user-friendly interface. Hosted on a local XAMPP server, this project showcases real-time data collection, processing, and visualization from IoT sensors or devices. The system is designed to provide a scalable and modular framework for monitoring and controlling IoT ecosystems, making it suitable for applications such as smart homes, environmental monitoring, or industrial automation.
