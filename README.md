@@ -71,5 +71,4 @@ Expand device compatibility for a broader range of IoT hardware.
 
 Contributing
 This project is part of a final-year academic submission. Contributions are welcome for non-academic purposes, such as bug fixes or feature enhancements. Please submit a pull request or contact the project owner for collaboration.
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+
